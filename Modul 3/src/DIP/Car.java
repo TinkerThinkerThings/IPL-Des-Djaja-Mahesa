@@ -1,6 +1,6 @@
 package DIP;
 
-public class Car implements EngineInterface {
+public class Car {
   private final Engine engine;
 
   public Car(Engine engine) {
